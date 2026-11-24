@@ -8,7 +8,7 @@ One pickup line, 200 characters at most, that a vending machine would use on a p
 
 ## The line
 
-> Press B7 for a date: I am fully stocked, slightly dented, and yours for exact change.
+> Row C, slot 4: single, chilled, and waiting for the one person who presses gently.
 
 ## How it works
 

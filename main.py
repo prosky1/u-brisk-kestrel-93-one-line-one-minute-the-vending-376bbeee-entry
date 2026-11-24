@@ -9,7 +9,7 @@ house gate scorer checks (UTF-8 text, 1 to 200 characters).
 import os
 import sys
 
-LINE = "Press B7 for a date: I am fully stocked, slightly dented, and yours for exact change."
+LINE = "Row C, slot 4: single, chilled, and waiting for the one person who presses gently."
 
 OUTPUT_PATH = os.environ.get("ENTRY_OUTPUT", "/output/entry.txt")
 
